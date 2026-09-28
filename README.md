@@ -95,7 +95,7 @@ Mărimi urmărite per epocă, salvate în `*_history.json`:
 - **Absența colapsului**: KL s-a stabilizat la ~23,8, nu a căzut spre 0 — confirmă
   că balansarea `sum`/`mean` este corectă.
 
-⚠️ **Loss-urile brute nu sunt comparabile între modele** (0,083 mediat vs 99,5 însumat
+**Loss-urile brute nu sunt comparabile între modele** (0,083 mediat vs 99,5 însumat
 + KL). Singura metrică direct comparabilă este **MSE**.
 
 ---
