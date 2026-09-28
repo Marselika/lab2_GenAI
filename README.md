@@ -1,4 +1,4 @@
-# Laborator 2 — Autoencoder clasic și Variational Autoencoder pe MNIST
+# Laborator 2 - Autoencoder clasic și Variational Autoencoder pe MNIST
 
 Implementare, antrenare și comparare a două arhitecturi encoder–decoder pe MNIST,
 cu TensorFlow 2.20 / Keras 3.15 (CPU).
