@@ -246,5 +246,5 @@ python generate_images.py
 python compare_models.py
 ```
 
-Fiecare script de evaluare încarcă modelele salvate — reantrenarea e necesară o
+Fiecare script de evaluare încarcă modelele salvate reantrenarea e necesară o
 singură dată.
