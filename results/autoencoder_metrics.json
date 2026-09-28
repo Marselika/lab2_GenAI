@@ -1,0 +1,13 @@
+{
+  "model": "autoencoder",
+  "latent_dim": 16,
+  "epochs": 10,
+  "batch_size": 128,
+  "training_time_sec": 257.798864364624,
+  "final_loss": 0.08314788341522217,
+  "final_val_loss": 0.08351193368434906,
+  "test_mse": 0.007364800199866295,
+  "test_mae": 0.02710060589015484,
+  "test_psnr_db": 21.328390306641968,
+  "test_mse_std": 0.005062643904238939
+}

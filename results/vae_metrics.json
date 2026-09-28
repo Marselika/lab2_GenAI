@@ -1,0 +1,20 @@
+{
+  "model": "vae",
+  "latent_dim": 16,
+  "epochs": 10,
+  "batch_size": 128,
+  "training_time_sec": 256.6202583312988,
+  "final_loss": 99.50469207763672,
+  "final_val_loss": 99.54364013671875,
+  "final_reconstruction_loss": 75.72296142578125,
+  "final_kl_loss": 23.78167152404785,
+  "test_mse": 0.008481337688863277,
+  "test_mse_sampled": 0.011459503322839737,
+  "test_mae": 0.031171411275863647,
+  "test_psnr_db": 20.715356447863044,
+  "test_mse_std": 0.0052133407443761826,
+  "latent_mean": 1.0937881597783417e-05,
+  "latent_std": 0.9558966159820557,
+  "latent_sigma_mean": 0.255077064037323,
+  "dimensiuni_active": 16
+}
